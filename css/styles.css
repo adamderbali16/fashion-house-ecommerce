@@ -59,6 +59,9 @@ header{
     z-index: 10000;
     background: #fff;
 }
+header i, a{
+    color: #000;
+}
 .nav-top{
     display: flex;
     align-items: center;
